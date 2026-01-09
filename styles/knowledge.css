@@ -140,6 +140,7 @@ nav ul{
 
 #brain .brain-container{
     padding-top: 120px;
+    padding-bottom: 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -171,6 +172,27 @@ nav ul{
 #brain ul li{
     display: flex;
     gap: 6px;
+}
+
+#think .think-container{
+    background-color: #F7F6F2;
+    margin-bottom: 120px;
+    text-align: center;
+    padding: 80px 40px;
+}
+#think h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+}
+#think p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+}
+.btn-get{
+    margin-top: 24px;
+    margin-bottom: 16px;
 }
 /* fail section */
 /* 
